@@ -32,4 +32,6 @@ writeSubsFile()
 
 
 #might be helpful
+#use batch requests to speed up praw.
+#pass it a list of fullnames to reddit.info instance
 #https://github.com/Watchful1/Sketchpad/blob/master/postDownloader.py
